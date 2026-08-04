@@ -21,7 +21,7 @@ Jaewon Heo
   </e>
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=jaewonheo1101@gmail.com">
     <img
       alt="Email Me"
@@ -46,3 +46,8 @@ Jaewon Heo
 <p>
   <img width="663" src="https://ghchart.rshah.org/HJ1-1101" alt="j1's GH contribution chart">
 </p>
+
+<h2>
+  
+  
+</h2>
