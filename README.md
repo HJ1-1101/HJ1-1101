@@ -44,42 +44,19 @@ Jaewon Heo
 
 
 ### 🔧 My Tech Stack
-```javascript
-const jaewon = {
-  role: "Robotics & Vision Student",
-  prof: "Hwang Hyo Seok",
-  languages: ["C++", "Python"],
-  
-  robotics: [
-    "ROS 2",
-    "MoveIt 2",
-    "Embedded Control",
-    "Computer Vision"
-  ],
+'''Rust
+let jaewon = Roboticist {
+    role: "Robotics & Vision Student",
+    advisor: "Prof. Hyo-Seok Hwang",
 
-  simulation: [
-    "NVIDIA Isaac Sim",
-    "Isaac Lab",
-    "Gazebo"
-  ],
+    languages: vec!["C++", "Python"],
+    robotics: vec!["ROS 2", "MoveIt 2", "Embedded Control"],
+    simulation: vec!["Isaac Sim", "Isaac Lab", "Gazebo"],
 
-  hardware: [
-    "STM32",
-    "NVIDIA Jetson",
-    "LiDAR",
-    "Quadruped Robots"
-  ],
+    current_project: Project {
+        name: "HyperNova",
+        kind: "Wheel-legged quadruped robot",
+    },
 
-  currentlyBuilding: {
-    project: "HyperNova",
-    description: "An open-source wheel-legged quadruped robot"
-  },
-
-  currentFocus: [
-    "Robot Control",
-    "Physical AI",
-    "Sim-to-Real"
-  ],
-
-  goal: "Building intelligent robots that work beyond simulation"
+    focus: vec!["Robot Control", "Physical AI", "Sim-to-Real"],
 };
