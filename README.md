@@ -44,7 +44,7 @@ Jaewon Heo
 
 
 ### 🔧 My Tech Stack
-```ㄱust
+```rust
 let jaewon = Roboticist {
     role: "Robotics & Vision Student",
     advisor: "Prof. Hyo-Seok Hwang",
