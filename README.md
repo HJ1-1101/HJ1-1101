@@ -8,6 +8,7 @@ Jaewon Heo
 </h2>
 
 Junior student at KyungHee Univ. Dept of Software Convergence
+
 President of HYPER, a robotics and computer vision club.
 
 <p>
