@@ -43,11 +43,6 @@ Jaewon Heo
 </p>
 
 
-<p>
-  <img width="663" src="https://ghchart.rshah.org/HJ1-1101" alt="j1's GH contribution chart">
-</p>
-
-
 ### 🔧 My Tech Stack
 ```javascript
 const jaewon = {
@@ -88,6 +83,3 @@ const jaewon = {
 
   goal: "Building intelligent robots that work beyond simulation"
 };
-'''
-'''
-
