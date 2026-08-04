@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+Robotics & Vision student at Kyung Hee University.
+
+## Currently working on
+
+- Physical AI and robot control
+- ROS 2 and MoveIt 2
+- Isaac Sim and Isaac Lab
 <!--
 **HJ1-1101/HJ1-1101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
