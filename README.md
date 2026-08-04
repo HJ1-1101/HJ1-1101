@@ -44,7 +44,7 @@ Jaewon Heo
 
 
 ### 🔧 My Tech Stack
-'''Rust
+```ㄱust
 let jaewon = Roboticist {
     role: "Robotics & Vision Student",
     advisor: "Prof. Hyo-Seok Hwang",
@@ -60,4 +60,4 @@ let jaewon = Roboticist {
 
     focus: vec!["Robot Control", "Physical AI", "Sim-to-Real"],
 };
-'''
+```
