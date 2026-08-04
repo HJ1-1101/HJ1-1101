@@ -1,9 +1,11 @@
-# Jaewon Heo  🇰🇷  
+<h2>
+# Jaewon Heo 
   <img
     src="./assets/korea.svg"
     width="45"
     alt="Hello"
   />
+</h2>
 
 Junior student at KyungHee Univ. Dept of Software Convergence
 President of HYPER, a robotics and computer vision club.
