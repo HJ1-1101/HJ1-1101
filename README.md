@@ -49,7 +49,7 @@ let jaewon = Roboticist {
     role: "Robotics & Vision Student",
     advisor: "Prof. Hyo-Seok Hwang",
 
-    languages: vec!["C++", "Python"],
+    languages: vec!["Rust", "C++", "Python"],
     robotics: vec!["ROS 2", "MoveIt 2", "Embedded Control"],
     simulation: vec!["Isaac Sim", "Isaac Lab", "Gazebo"],
 
