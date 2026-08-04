@@ -10,7 +10,7 @@ Jaewon Heo
   <img
     src="./assets/HYPER로고_스티커용,원형.png"
     alt="HYPER Logo"
-    width="100"
+    width="85"
     align="right"
   >
 </a>
@@ -50,3 +50,43 @@ Jaewon Heo
 <h2>
   My Tech Stack
 </h2>
+```javascript
+const jaewon = {
+  role: "Robotics & Vision Student",
+
+  languages: ["C++", "Python"],
+  
+  robotics: [
+    "ROS 2",
+    "MoveIt 2",
+    "Embedded Control",
+    "Computer Vision"
+  ],
+
+  simulation: [
+    "NVIDIA Isaac Sim",
+    "Isaac Lab",
+    "Gazebo"
+  ],
+
+  hardware: [
+    "STM32",
+    "NVIDIA Jetson",
+    "LiDAR",
+    "Quadruped Robots"
+  ],
+
+  currentlyBuilding: {
+    project: "HYPERNOVA",
+    description: "An open-source wheel-legged quadruped robot"
+  },
+
+  currentFocus: [
+    "Robot Control",
+    "Physical AI",
+    "Sim-to-Real"
+  ],
+
+  goal: "Building intelligent robots that work beyond simulation"
+};
+'''
