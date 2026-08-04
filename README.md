@@ -10,7 +10,7 @@ Jaewon Heo
   <img
     src="./assets/HYPER로고_스티커용,원형.png"
     alt="HYPER Logo"
-    width="160"
+    width="100"
     align="right"
   >
 </a>
@@ -49,5 +49,4 @@ Jaewon Heo
 
 <h2>
   My Tech Stack
-  
 </h2>
