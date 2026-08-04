@@ -1,8 +1,8 @@
 <h2>
-# Jaewon Heo 
+##Jaewon Heo 
   <img
     src="./assets/korea.svg"
-    width="45"
+    width="30"
     alt="Hello"
   />
 </h2>
