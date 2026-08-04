@@ -1,3 +1,11 @@
+<a href="https://github.com/YOUR-HYPER-ORG">
+  <img
+    src="./assets/HYPER로고_스티커용,원형.png"
+    alt="HYPER Logo"
+    width="160"
+    align="right"
+  >
+</a>
 <h2>
 Jaewon Heo 
   <img
