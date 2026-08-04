@@ -7,9 +7,8 @@ Jaewon Heo
   />
 </h2>
 
-Junior student at KyungHee Univ. Dept of Software Convergence
-
-President of HYPER, a robotics and computer vision club.
+Junior student at <a href="https://www.khu.ac.kr">Kyung Hee Univ.</a> <a href=https://swcon.khu.ac.kr/swcon/user/main/view.do>Dept of Software Convergence</a><br>
+President of HYPER, a robotics and computer vision club.<br>
 
 <p>
   <a href="https://zeuldocs.com">zeuldocs.com</a> ·
