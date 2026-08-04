@@ -1,11 +1,11 @@
-<h2>
+<h1>
 Jaewon Heo 
   <img
     src="./assets/korea.svg"
-    width="30"
+    width="40"
     alt="Hello"
   />
-</h2>
+</h1>
 <a href="https://github.com/YOUR-HYPER-ORG">
   <img
     src="./assets/HYPER로고_스티커용,원형.png"
