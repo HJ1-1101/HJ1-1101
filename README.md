@@ -1,23 +1,19 @@
-## Hi there 👋
+# Jaewon Heo  🇰🇷  
+  <img
+    src="./assets/korea.svg"
+    width="45"
+    alt="Hello"
+  />
 
-Robotics & Vision student at Kyung Hee University.
+Junior student at KyungHee Univ. Dept of Software Convergence
+President of HYPER, a robotics and computer vision club.
 
-## Currently working on
+<p>
+  <a href="https://zeuldocs.com">zeuldocs.com</a> ·
+  <a href="https://linkedin.com/in/zeulewan">LinkedIn</a> ·
+  <a href="https://github.com/zeulewan">GitHub</a>
+</p>
 
-- Physical AI and robot control
-- ROS 2 and MoveIt 2
-- Isaac Sim and Isaac Lab
-<!--
-**HJ1-1101/HJ1-1101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <img width="663" src="https://ghchart.rshah.org/HJ1-1101" alt="j1's GH contribution chart">
+</p>
