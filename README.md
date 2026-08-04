@@ -21,7 +21,7 @@ Jaewon Heo
 </p>
 
 <p>
-  <a href="https://zeuldocs.com">zeuldocs.com</a> ·
+  [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jaewonheo1101@gmail.com)  
   <a href="https://linkedin.com/in/zeulewan">LinkedIn</a> ·
   <a href="https://github.com/zeulewan">GitHub</a>
 </p>
