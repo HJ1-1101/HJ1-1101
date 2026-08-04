@@ -5,6 +5,11 @@ Jaewon Heo
     width="30"
     alt="Hello"
   />
+  <img
+    src="./assets/HYPER로고_스티커용,원형.png"
+    width="45"
+    alt="HYPER"
+  />
 </h2>
 
 <p>
