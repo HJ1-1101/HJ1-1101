@@ -1,3 +1,11 @@
+<h2>
+Jaewon Heo 
+  <img
+    src="./assets/korea.svg"
+    width="30"
+    alt="Hello"
+  />
+</h2>
 <a href="https://github.com/YOUR-HYPER-ORG">
   <img
     src="./assets/HYPER로고_스티커용,원형.png"
@@ -6,20 +14,6 @@
     align="right"
   >
 </a>
-<h2>
-Jaewon Heo 
-  <img
-    src="./assets/korea.svg"
-    width="30"
-    alt="Hello"
-  />
-  <img
-    src="./assets/HYPER로고_스티커용,원형.png"
-    width="30"
-    alt="HYPER"
-  />
-</h2>
-
 <p>
   <e>
     Junior student at <a href="https://www.khu.ac.kr">Kyung Hee Univ.</a> <a href=https://swcon.khu.ac.kr/swcon/user/main/view.do>Dept of Software Convergence</a><br>
