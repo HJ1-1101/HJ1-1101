@@ -6,7 +6,7 @@ Jaewon Heo
     alt="Hello"
   />
 </h2>
-<a href="https://github.com/YOUR-HYPER-ORG">
+<a href="https://github.com/HYPER-Robotics">
   <img
     src="./assets/HYPER로고_스티커용,원형.png"
     alt="HYPER Logo"
@@ -48,11 +48,11 @@ Jaewon Heo
 </p>
 
 
-### My Tech Stack
+### 🔧 My Tech Stack
 ```javascript
 const jaewon = {
   role: "Robotics & Vision Student",
-
+  prof: "Hwang Hyo Seok",
   languages: ["C++", "Python"],
   
   robotics: [
@@ -90,3 +90,4 @@ const jaewon = {
 };
 '''
 '''
+
