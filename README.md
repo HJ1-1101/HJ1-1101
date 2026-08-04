@@ -1,11 +1,11 @@
-<h1>
+<h2>
 Jaewon Heo 
   <img
     src="./assets/korea.svg"
-    width="40"
+    width="30"
     alt="Hello"
   />
-</h1>
+</h2>
 <a href="https://github.com/YOUR-HYPER-ORG">
   <img
     src="./assets/HYPER로고_스티커용,원형.png"
@@ -47,9 +47,8 @@ Jaewon Heo
   <img width="663" src="https://ghchart.rshah.org/HJ1-1101" alt="j1's GH contribution chart">
 </p>
 
-<h2>
-  My Tech Stack
-</h2>
+
+###My Tech Stack
 ```javascript
 const jaewon = {
   role: "Robotics & Vision Student",
@@ -77,7 +76,7 @@ const jaewon = {
   ],
 
   currentlyBuilding: {
-    project: "HYPERNOVA",
+    project: "HyperNova",
     description: "An open-source wheel-legged quadruped robot"
   },
 
@@ -89,4 +88,5 @@ const jaewon = {
 
   goal: "Building intelligent robots that work beyond simulation"
 };
+'''
 '''
