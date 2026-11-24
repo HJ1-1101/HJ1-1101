@@ -53,9 +53,13 @@ let jaewon = Roboticist {
     robotics: vec!["ROS 2", "MoveIt 2", "Embedded Control"],
     simulation: vec!["Isaac Sim", "Isaac Lab", "Gazebo"],
 
-    current_project: Project {
+    current_project1: Project {
         name: "HyperNova",
-        kind: "Wheel-legged quadruped robot",
+        kind: "Quadruped robot automatic patrol system",
+    },
+    current_project2: Project {
+        name: "KIST Mental Model",
+        kind: "VLA training dataset generation",
     },
 
     focus: vec!["Robot Control", "Physical AI", "Sim-to-Real"],
